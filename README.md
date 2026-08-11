@@ -1,45 +1,79 @@
-## Contribution Space Shooter
+# Melihozz
 
+> Memorable developer positioning.
+
+**Theme:** Dracula · **Style:** Creative · **Agent:** Full-Stack Engineer
+
+## Header
+Hi, I'm **Melihozz**. This README is tuned for **personal brand** with a Dracula visual system.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/melihozz/melihozz/output/space-shooter.gif" alt="melihozz's contribution Space Shooter" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Melihozz&theme=dracula&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Melihozz&theme=dracula" alt="Melihozz hero section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=Melihozz&theme=dracula&mode=light" />
+    <img src="https://www.gitskins.com/api/section/chess?username=Melihozz&theme=dracula" alt="Melihozz chess replay section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Melihozz&theme=dracula&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=Melihozz&theme=dracula" alt="Melihozz about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Melihozz&theme=dracula&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=Melihozz&theme=dracula" alt="Melihozz stack section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=Melihozz&theme=dracula&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=Melihozz&theme=dracula" alt="Melihozz heatmap section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Melihozz&theme=dracula&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=Melihozz&theme=dracula" alt="Melihozz projects section" />
+  </picture>
+</p>
+## GitHub Stats
+> Editing this section in the inspector.
+GitSkins stat widgets will use the **Dracula** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Melihozz&theme=dracula&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Melihozz&theme=dracula" alt="Melihozz stats section" />
+  </picture>
+</p>
+## Highlights
+Value-prop feature cards drawn from the profile.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=Melihozz&theme=dracula&mode=light" />
+    <img src="https://www.gitskins.com/api/section/highlights?username=Melihozz&theme=dracula" alt="Melihozz highlights section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Melihozz&theme=dracula&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Melihozz&theme=dracula" alt="Melihozz social section" />
+  </picture>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+%C3%96mer%20%C3%96ztekin;Welcome+to+my+profile!" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/84384534?u=b265c7e808e6420dd1964fbed00c8afd9b699451&v=4" width="150" style="border-radius: 50%;" alt="Ömer Öztekin" />
-</p>
-
-## 👨‍💻 About Me
-
-Passionate developer building awesome things.
-
-- 👥 **2** followers · **4** following
-
-## 🛠️ Languages & Tools
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=melihozz&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=melihozz&theme=github-dark&style=terminal" alt="GitHub Stats" /></picture>
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=melihozz&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=melihozz&theme=github-dark&style=terminal" alt="melihozz contribution activity" /></picture>
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=melihozz&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=melihozz&theme=github-dark&style=terminal" alt="melihozz social links" /></picture>
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melihozz)
-
----
-
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+<!-- Sections: Header, About Me, Skills, Heatmap, Projects, GitHub Stats, Highlights, Connect -->
